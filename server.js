@@ -21,3 +21,4 @@ routes(app);
 app.listen(port);
 
 console.log('messages RESTful Api started on port: ' + port);
+
